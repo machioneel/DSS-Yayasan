@@ -111,8 +111,8 @@ git --version
 ### 1. Clone Repository
 
 ```bash
-git clone <URL_REPOSITORY>
-cd sistem-evaluasi-karyawan
+git clone https://github.com/machioneel/DSS-Yayasan.git
+cd DSS-Yayasan
 ```
 
 ### 2. Install Dependencies
